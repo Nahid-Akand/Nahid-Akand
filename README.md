@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Nahid
 
-<!--
-**Nahid-Akand/Nahid-Akand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning JavaScript, React and Node.js
+
+🚀 Aspiring Full Stack Developer
+
+📍 Bangladesh
+
+---
+
+## 🛠 Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Responsive Web Design
+
+---
+
+## 🚀 Projects
+
+### 🌐 Conference Website
+
+Responsive conference landing page built with HTML and CSS.
+
+### 🏥 Healthcare Management System
+
+Academic project focused on healthcare management.
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+
+## 📫 Connect With Me
+
+🌐 Portfolio: https://nahid-akand.netlify.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/nahid-akand/
+
+📧 Email: jahidnahid19@gmail.com
+
+
