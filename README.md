@@ -15,6 +15,8 @@
 ## 🛠 Skills
 
 - HTML5
+- TypeScript
+- React
 - CSS3
 - JavaScript
 - Git
