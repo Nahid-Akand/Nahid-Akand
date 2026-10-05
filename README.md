@@ -109,9 +109,14 @@ My personal developer portfolio showcasing my projects, skills, experience and j
 
 **Tech Stack:** Next.js · React · TypeScript · Tailwind CSS
 
-<a href="https://nahid-portfolio-xi.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+## 📸 Screenshot
+
+<div align="center">
+
+<img src="./public/images/screenshot.png" alt="Nahid Akand Portfolio Screenshot" width="900"/>
+
+</div>
+
 
 </td>
 
