@@ -1,137 +1,216 @@
-# 👋 Hi, I'm Nahid Akand
+<!-- ===================== HEADER ===================== -->
 
-### 💻 Frontend Developer | React & Next.js Enthusiast | Aspiring Full-Stack Developer
+<div align="center">
 
-I'm a Computer Science graduate from Bangladesh who enjoys building **modern, responsive, and user-friendly web applications**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Nahid%20Akand&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18" width="100%" />
 
-I started with the fundamentals of web development and have been continuously expanding my skills across the JavaScript ecosystem. Currently, I'm focused on **React, Next.js, TypeScript, Node.js, and modern web development**.
+<br/>
 
-> 🚀 Learning every day. Building every day. Improving every day.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+Developer;Always+learning.+Always+building." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://nahid-portfolio-xi.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-2563EB?style=for-the-badge" />
+</a>
+<a href="https://github.com/Nahid-Akand">
+  <img src="https://img.shields.io/badge/GitHub-Nahid--Akand-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/nahid-akand/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Nahid-Akand&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-* 🎓 Computer Science Graduate
-* 💻 Passionate about Web Development
-* ⚛️ Building applications with React & Next.js
-* 🟦 Working with TypeScript & JavaScript
-* 🌱 Currently exploring Full-Stack Development
-* 🔍 Interested in clean code, responsive UI & great user experiences
-* 📍 Based in Bangladesh
+I'm **Nahid Akand**, a Computer Science graduate and aspiring Full-Stack Developer from Bangladesh.
+
+I enjoy turning ideas into **clean, responsive and interactive web applications**. My current focus is the modern JavaScript ecosystem, especially **React, Next.js and TypeScript**.
+
+
+💻 Building       → Modern Web Applications
+⚛️ Frontend       → React • Next.js • TypeScript
+🎨 UI             → Tailwind CSS • daisyUI
+🌱 Learning       → Node.js • Express.js • MongoDB
+🚀 Goal           → Become a Professional Full-Stack Developer
+
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+### Frontend
 
-### ⚛️ Frontend
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="48" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="48" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="48" />
+</a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=ts" width="48" />
+</a>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="48" />
+</a>
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" />
+</a>
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" />
+</a>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge\&logo=daisyui\&logoColor=white)
+<br/><br/>
 
-### 🖥️ Backend & Database
+### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+</a>
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="48" />
+</a>
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+</a>
 
-### 🔧 Tools
+<br/><br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+### Tools
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="48" />
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" />
+</a>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 📚 Book Vibe
 
 A modern book discovery and management application built with **Next.js, TypeScript, Tailwind CSS and daisyUI**.
 
-**Highlights:**
+**Features**
 
-* 📖 Browse and explore books
-* ❤️ Wishlist functionality
-* 📚 Read book management
+* 📖 Book discovery
+* ❤️ Wishlist
+* 📚 Read books
 * 🔎 Dynamic book details
 * 📱 Responsive design
 
----
+<br/>
 
-### 🌐 Developer Portfolio
+<a href="https://github.com/Nahid-Akand">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
-My personal developer portfolio showcasing my skills, projects, experience and journey as a developer.
+</td>
 
-🔗 **[Visit My Portfolio](https://nahid-portfolio-xi.vercel.app/)**
+<td width="50%">
 
----
+### 💼 Developer Portfolio
 
-### 🏥 Healthcare Management System
+My personal portfolio showcasing my projects, skills and journey as a developer.
 
-An academic project focused on managing healthcare-related information and workflows.
+Built with a modern frontend approach with a focus on **responsive design and clean UI**.
+
+<br/>
+
+<a href="https://nahid-portfolio-xi.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌱 Currently Learning
 
+<div align="center">
 
-JavaScript
-     ↓
-React
-     ↓
-Next.js + TypeScript
-     ↓
-Node.js + Express.js
-     ↓
-MongoDB
-     ↓
-Full-Stack Development 🚀
+`JavaScript` → `React` → `Next.js` → `TypeScript` → `Node.js` → `Express.js` → `MongoDB`
 
+</div>
 
-I'm continuously improving my knowledge of modern JavaScript technologies and working toward becoming a well-rounded **Full-Stack Developer**.
+I'm continuously improving my frontend skills while expanding toward **full-stack development**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nahid-Akand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<a href="https://github.com/Nahid-Akand">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nahid-Akand&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Akand&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<a href="https://github.com/Nahid-Akand">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Akand&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nahid-Akand&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nahid-Akand&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Nahid-Akand/Nahid-Akand/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals
 
-* 🚀 Become a professional Full-Stack Developer
-* ⚛️ Build more production-ready React & Next.js applications
-* 🟦 Improve my TypeScript skills
-* 🧠 Strengthen backend development skills
-* 🌍 Contribute to open-source projects
-* 💼 Build a strong professional portfolio
+
+[✓] Learn the fundamentals of web development
+[✓] Build React applications
+[✓] Start working with Next.js
+[✓] Learn TypeScript
+
+[ ] Become a professional Full-Stack Developer
+[ ] Build production-ready applications
+[ ] Contribute to open-source projects
+[ ] Work with real-world development teams
+
 
 ---
 
@@ -139,25 +218,30 @@ I'm continuously improving my knowledge of modern JavaScript technologies and wo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nahid-portfolio-xi.vercel.app/)
+<a href="https://nahid-portfolio-xi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nahid-akand/)
+<a href="https://www.linkedin.com/in/nahid-akand/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Nahid-Akand)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jahidnahid19@gmail.com)
+<a href="mailto:jahidnahid19@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 💡 "Keep learning. Keep building. Keep growing."
+### 💙 Thanks for visiting my profile!
 
-⭐ **Thanks for visiting my profile!**
+**Keep learning. Keep building. Keep growing. 🚀**
 
 </div>
 
+<!-- ===================== FOOTER ===================== -->
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
