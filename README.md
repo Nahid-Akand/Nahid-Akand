@@ -217,11 +217,14 @@ I'm continuously improving my frontend skills while expanding toward **full-stac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahid-Akand&theme=github-compact&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahid-Akand&bg_color=00000000&color=2563EB&line=2563EB&point=1E3A8A&area=true&hide_border=true" width="95%" alt="Nahid Akand's GitHub Activity Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahid-Akand&theme=github_dark" width="95%" alt="GitHub Profile Summary" />
 
 </div>
 
----
 
 ## 🎯 2026 Goals
 
