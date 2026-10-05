@@ -153,9 +153,14 @@ My personal developer portfolio showcasing my projects, skills, experience and j
 
 <a href="https://github.com/Nahid-Akand">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Akand&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
+## 📸 Screenshot
 
-</a>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nahid-Akand/REPOSITORY_NAME/main/public/images/screenshot.png" alt="Nahid Akand Portfolio Screenshot" width="900"/>
+
+</div>
+
 
 </div>
 
