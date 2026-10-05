@@ -38,28 +38,6 @@ I enjoy turning ideas into **clean, responsive and interactive web applications*
 
 ## ⚡ Tech Stack
 
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-<br/><br/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-<br/><br/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -71,15 +49,7 @@ I enjoy turning ideas into **clean, responsive and interactive web applications*
 
 A modern and responsive workout library for discovering and exploring different workout routines.
 
-**Highlights**
-
-* 🏋️ Workout library
-* 🔎 Workout discovery
-* 📋 Workout information
-* 📱 Responsive design
-* ⚡ Modern UI
-
-<br/>
+**Tech Stack:** React · TypeScript · Tailwind CSS · Vite
 
 <a href="https://workout-assignment-6-ldufg8q9s-nahid13.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -95,17 +65,9 @@ A modern and responsive workout library for discovering and exploring different 
 
 ### 🎤 DevConf
 
-A responsive conference and event management website for discovering conference events.
+A responsive developer conference website for exploring conference events, schedules and information.
 
-**Highlights**
-
-* 🎤 Conference information
-* 📅 Event details
-* 🔎 Event discovery
-* 📱 Responsive layout
-* ✨ Modern interface
-
-<br/>
+**Tech Stack:** HTML5 · CSS3 · JavaScript
 
 <a href="https://nahid-akand.github.io/B14-A01-DevConf-2026/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=github&logoColor=white" />
@@ -125,17 +87,9 @@ A responsive conference and event management website for discovering conference 
 
 ### 📚 Book Vibe
 
-A modern book discovery and management application built with **Next.js, TypeScript, Tailwind CSS and daisyUI**.
+A modern book discovery and management application with wishlist, read-book management and dynamic book details.
 
-**Highlights**
-
-* 📖 Book discovery
-* ❤️ Wishlist management
-* 📚 Read book management
-* 🔎 Dynamic book details
-* 📱 Responsive design
-
-<br/>
+**Tech Stack:** Next.js · TypeScript · Tailwind CSS · daisyUI
 
 <a href="https://book-vibe-nahid13.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -151,11 +105,9 @@ A modern book discovery and management application built with **Next.js, TypeScr
 
 ### 🌐 Developer Portfolio
 
-My personal portfolio showcasing my projects, skills and journey as a developer.
+My personal developer portfolio showcasing my projects, skills, experience and journey as a web developer.
 
-Focused on **clean UI, responsive design and modern web development**.
-
-<br/>
+**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS
 
 <a href="https://nahid-portfolio-xi.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -165,6 +117,8 @@ Focused on **clean UI, responsive design and modern web development**.
 
 </tr>
 </table>
+
+
 
 ---
 
