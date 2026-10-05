@@ -7,19 +7,21 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+Developer;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+Developer;Turning+ideas+into+interactive+experiences;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="https://nahid-portfolio-xi.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-2563EB?style=for-the-badge" />
 </a>
+
 <a href="https://github.com/Nahid-Akand">
-  <img src="https://img.shields.io/badge/GitHub-Nahid--Akand-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Nahid--Akand-181717?style=for-the-badge&logo=github" />
 </a>
+
 <a href="https://www.linkedin.com/in/nahid-akand/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <br/><br/>
@@ -36,13 +38,14 @@ I'm **Nahid Akand**, a Computer Science graduate and aspiring Full-Stack Develop
 
 I enjoy turning ideas into **clean, responsive and interactive web applications**. My current focus is the modern JavaScript ecosystem, especially **React, Next.js and TypeScript**.
 
-
+```text
 💻 Building       → Modern Web Applications
 ⚛️ Frontend       → React • Next.js • TypeScript
 🎨 UI             → Tailwind CSS • daisyUI
 🌱 Learning       → Node.js • Express.js • MongoDB
-🚀 Goal           → Become a Professional Full-Stack Developer
-
+🚀 Goal           → Professional Full-Stack Developer
+📍 Location       → Bangladesh
+```
 
 ---
 
@@ -52,55 +55,19 @@ I enjoy turning ideas into **clean, responsive and interactive web applications*
 
 ### Frontend
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="48" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="48" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="48" />
-</a>
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=ts" width="48" />
-</a>
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="48" />
-</a>
-<a href="https://nextjs.org/">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" />
-</a>
-<a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 <br/><br/>
 
 ### Backend & Database
 
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" />
-</a>
-<a href="https://expressjs.com/">
-<img src="https://skillicons.dev/icons?i=express" width="48" />
-</a>
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" />
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 <br/><br/>
 
 ### Tools
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="48" />
-</a>
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="48" />
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" />
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 </div>
 
@@ -110,35 +77,96 @@ I enjoy turning ideas into **clean, responsive and interactive web applications*
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 📚 Book Vibe
+### 💪 FitLog – Workout Library
 
-A modern book discovery and management application built with **Next.js, TypeScript, Tailwind CSS and daisyUI**.
+A modern and responsive workout library designed for discovering and exploring different workout routines.
 
-**Features**
+**Highlights**
 
-* 📖 Book discovery
-* ❤️ Wishlist
-* 📚 Read books
-* 🔎 Dynamic book details
+* 🏋️ Workout library
+* 🔎 Workout discovery
+* 📋 Workout information
 * 📱 Responsive design
+* ⚡ Modern user interface
 
 <br/>
 
-<a href="https://github.com/Nahid-Akand">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+<a href="YOUR_FITLOG_LIVE_URL">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_FITLOG_GITHUB_URL">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%">
 
-### 💼 Developer Portfolio
+### 🎤 DevConf – Conference & Event Management
+
+A modern conference and event management platform for discovering and exploring conference events.
+
+**Highlights**
+
+* 🎤 Conference management
+* 📅 Event information
+* 🔎 Event discovery
+* 📱 Responsive design
+* ✨ Modern UI
+
+<br/>
+
+<a href="YOUR_DEVCONF_LIVE_URL">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_DEVCONF_GITHUB_URL">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📚 Book Vibe
+
+A modern book discovery and management application built with **Next.js, TypeScript, Tailwind CSS and daisyUI**.
+
+**Highlights**
+
+* 📖 Book discovery
+* ❤️ Wishlist
+* 📚 Read book management
+* 🔎 Dynamic book details
+* 📱 Responsive design
+
+<br/>
+
+<a href="YOUR_BOOK_VIBE_LIVE_URL">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_BOOK_VIBE_GITHUB_URL">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Developer Portfolio
 
 My personal portfolio showcasing my projects, skills and journey as a developer.
 
-Built with a modern frontend approach with a focus on **responsive design and clean UI**.
+Focused on **clean UI, responsive design and modern web development**.
 
 <br/>
 
@@ -146,7 +174,12 @@ Built with a modern frontend approach with a focus on **responsive design and cl
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
+<a href="https://github.com/Nahid-Akand">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
+
 </tr>
 </table>
 
@@ -156,6 +189,10 @@ Built with a modern frontend approach with a focus on **responsive design and cl
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,nodejs,express,mongodb" />
+
+<br/><br/>
+
 `JavaScript` → `React` → `Next.js` → `TypeScript` → `Node.js` → `Express.js` → `MongoDB`
 
 </div>
@@ -164,21 +201,27 @@ I'm continuously improving my frontend skills while expanding toward **full-stac
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Nahid-Akand">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nahid-Akand&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+
 </a>
 
 <a href="https://github.com/Nahid-Akand">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Akand&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
 </a>
 
 </div>
 
-<br/>
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -188,29 +231,56 @@ I'm continuously improving my frontend skills while expanding toward **full-stac
 
 ---
 
-## 🐍 Contribution Journey
+## 📈 Coding Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nahid-Akand/Nahid-Akand/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahid-Akand&theme=github-compact&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-## 🎯 Goals
+## 🎯 2026 Goals
 
+<table align="center">
 
-[✓] Learn the fundamentals of web development
-[✓] Build React applications
-[✓] Start working with Next.js
-[✓] Learn TypeScript
+<tr>
+<td align="center">🚀</td>
+<td><b>Full-Stack Development</b><br/>Become confident building complete applications.</td>
+</tr>
 
-[ ] Become a professional Full-Stack Developer
-[ ] Build production-ready applications
-[ ] Contribute to open-source projects
-[ ] Work with real-world development teams
+<tr>
+<td align="center">⚛️</td>
+<td><b>Advanced React & Next.js</b><br/>Build scalable and production-ready applications.</td>
+</tr>
 
+<tr>
+<td align="center">🟦</td>
+<td><b>TypeScript</b><br/>Write safer and more maintainable code.</td>
+</tr>
+
+<tr>
+<td align="center">🌍</td>
+<td><b>Open Source</b><br/>Start contributing to meaningful projects.</td>
+</tr>
+
+<tr>
+<td align="center">💼</td>
+<td><b>Professional Growth</b><br/>Prepare for real-world development opportunities.</td>
+</tr>
+
+</table>
+
+---
+
+## 💡 What I Care About
+
+<div align="center">
+
+**Clean Code** · **Responsive Design** · **User Experience** · **Performance** · **Continuous Learning**
+
+</div>
 
 ---
 
@@ -230,9 +300,13 @@ I'm continuously improving my frontend skills while expanding toward **full-stac
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://github.com/Nahid-Akand">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
 
@@ -241,7 +315,5 @@ I'm continuously improving my frontend skills while expanding toward **full-stac
 **Keep learning. Keep building. Keep growing. 🚀**
 
 </div>
-
-<!-- ===================== FOOTER ===================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
