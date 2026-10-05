@@ -7,21 +7,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+Developer;Turning+ideas+into+interactive+experiences;Always+learning.+Always+building." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<a href="https://nahid-portfolio-xi.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-2563EB?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/Nahid-Akand">
-<img src="https://img.shields.io/badge/GitHub-Nahid--Akand-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/nahid-akand/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+Developer;Turning+ideas+into+interactive+experiences;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -38,14 +24,14 @@ I'm **Nahid Akand**, a Computer Science graduate and aspiring Full-Stack Develop
 
 I enjoy turning ideas into **clean, responsive and interactive web applications**. My current focus is the modern JavaScript ecosystem, especially **React, Next.js and TypeScript**.
 
-```text
+
 💻 Building       → Modern Web Applications
 ⚛️ Frontend       → React • Next.js • TypeScript
 🎨 UI             → Tailwind CSS • daisyUI
 🌱 Learning       → Node.js • Express.js • MongoDB
 🚀 Goal           → Professional Full-Stack Developer
 📍 Location       → Bangladesh
-```
+
 
 ---
 
@@ -94,11 +80,11 @@ A modern and responsive workout library designed for discovering and exploring d
 
 <br/>
 
-<a href="YOUR_FITLOG_LIVE_URL">
+<a href="https://workout-assignment-6-ldufg8q9s-nahid13.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="YOUR_FITLOG_GITHUB_URL">
+<a href="https://github.com/Nahid-Akand/workout-assignment-6">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -120,11 +106,11 @@ A modern conference and event management platform for discovering and exploring 
 
 <br/>
 
-<a href="YOUR_DEVCONF_LIVE_URL">
-<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://nahid-akand.github.io/B14-A01-DevConf-2026/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_DEVCONF_GITHUB_URL">
+<a href="https://github.com/Nahid-Akand/B14-A01-DevConf-2026">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -150,11 +136,11 @@ A modern book discovery and management application built with **Next.js, TypeScr
 
 <br/>
 
-<a href="YOUR_BOOK_VIBE_LIVE_URL">
+<a href="https://book-vibe-nahid13.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="YOUR_BOOK_VIBE_GITHUB_URL">
+<a href="https://github.com/Nahid-Akand/book-vibe">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -172,10 +158,6 @@ Focused on **clean UI, responsive design and modern web development**.
 
 <a href="https://nahid-portfolio-xi.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/Nahid-Akand">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -298,10 +280,6 @@ I'm continuously improving my frontend skills while expanding toward **full-stac
 
 <a href="mailto:jahidnahid19@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Nahid-Akand">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
