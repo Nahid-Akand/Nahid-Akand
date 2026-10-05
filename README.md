@@ -22,7 +22,7 @@
 
 I'm **Nahid Akand**, a Computer Science graduate and aspiring Full-Stack Developer from Bangladesh.
 
-I enjoy turning ideas into **clean, responsive and interactive web applications**. My current focus is the modern JavaScript ecosystem, especially **React, Next.js and TypeScript**.
+I enjoy transforming ideas into **clean, responsive and interactive web applications**. I am particularly interested in modern JavaScript technologies and continuously improving my skills through hands-on projects.
 
 ### 🚀 Currently
 
@@ -30,13 +30,35 @@ I enjoy turning ideas into **clean, responsive and interactive web applications*
 * ⚛️ Exploring **React and Next.js**
 * 🟦 Improving my **TypeScript** skills
 * 🌱 Learning **Node.js, Express.js and MongoDB**
-* 🎨 Creating clean interfaces with **Tailwind CSS and daisyUI**
-* 💡 Practicing modern frontend development and UI/UX
+* 🎨 Building clean interfaces with **Tailwind CSS and daisyUI**
+* 💡 Improving my frontend development and UI/UX skills
 * 🚀 Working toward becoming a professional **Full-Stack Developer**
 
 ---
 
 ## ⚡ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+<br/><br/>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+<br/><br/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -50,6 +72,14 @@ I enjoy turning ideas into **clean, responsive and interactive web applications*
 A modern and responsive workout library for discovering and exploring different workout routines.
 
 **Tech Stack:** React · TypeScript · Tailwind CSS · Vite
+
+**Features:**
+
+* 🏋️ Workout library
+* 🔎 Workout discovery
+* 📋 Workout information
+* 📱 Responsive design
+* ⚡ Modern UI
 
 <a href="https://workout-assignment-6-ldufg8q9s-nahid13.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -65,9 +95,17 @@ A modern and responsive workout library for discovering and exploring different 
 
 ### 🎤 DevConf
 
-A responsive developer conference website for exploring conference events, schedules and information.
+A responsive developer conference website for exploring conference events and information.
 
 **Tech Stack:** HTML5 · CSS3 · JavaScript
+
+**Features:**
+
+* 🎤 Conference information
+* 📅 Event details
+* 🔎 Event discovery
+* 📱 Responsive layout
+* ✨ Modern interface
 
 <a href="https://nahid-akand.github.io/B14-A01-DevConf-2026/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=github&logoColor=white" />
@@ -91,6 +129,14 @@ A modern book discovery and management application with wishlist, read-book mana
 
 **Tech Stack:** Next.js · TypeScript · Tailwind CSS · daisyUI
 
+**Features:**
+
+* 📖 Book discovery
+* ❤️ Wishlist management
+* 📚 Read book management
+* 🔎 Dynamic book details
+* 📱 Responsive design
+
 <a href="https://book-vibe-nahid13.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -105,25 +151,26 @@ A modern book discovery and management application with wishlist, read-book mana
 
 ### 🌐 Developer Portfolio
 
-My personal developer portfolio showcasing my projects, skills, experience and journey as a web developer.
+My personal portfolio showcasing my projects, skills and journey as a developer.
 
 **Tech Stack:** Next.js · React · TypeScript · Tailwind CSS
 
-## 📸 Screenshot
+**Highlights:**
 
-<div align="center">
+* 💼 Project showcase
+* 🧑‍💻 Developer profile
+* 📱 Responsive design
+* 🎨 Modern UI
+* 🚀 Deployed application
 
-<img src="./public/images/screenshot.png" alt="Nahid Akand Portfolio Screenshot" width="900"/>
-
-</div>
-
+<a href="https://nahid-portfolio-xi.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </td>
 
 </tr>
 </table>
-
-
 
 ---
 
@@ -153,14 +200,9 @@ My personal developer portfolio showcasing my projects, skills, experience and j
 
 <a href="https://github.com/Nahid-Akand">
 
-## 📸 Screenshot
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Akand&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nahid-Akand/REPOSITORY_NAME/main/public/images/screenshot.png" alt="Nahid Akand Portfolio Screenshot" width="900"/>
-
-</div>
-
+</a>
 
 </div>
 
@@ -213,7 +255,7 @@ My personal developer portfolio showcasing my projects, skills, experience and j
 
 <div align="center">
 
-**Clean Code** · **Responsive Design** · **User Experience** · **Performance** · **Continuous Learning**
+**Clean Code** · **Responsive Design** · **User Experience** · **Performance** · **Accessibility** · **Continuous Learning**
 
 </div>
 
@@ -223,8 +265,7 @@ My personal developer portfolio showcasing my projects, skills, experience and j
 
 <div align="center">
 
-📍 **Dhaka, Bangladesh**
-
+📍 **Dhaka, Bangladesh**    |   
 📧 **[jahidnahid19@gmail.com](mailto:jahidnahid19@gmail.com)**
 
 </div>
