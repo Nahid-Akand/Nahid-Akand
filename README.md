@@ -24,14 +24,15 @@ I'm **Nahid Akand**, a Computer Science graduate and aspiring Full-Stack Develop
 
 I enjoy turning ideas into **clean, responsive and interactive web applications**. My current focus is the modern JavaScript ecosystem, especially **React, Next.js and TypeScript**.
 
+### 🚀 Currently
 
-💻 Building       → Modern Web Applications
-⚛️ Frontend       → React • Next.js • TypeScript
-🎨 UI             → Tailwind CSS • daisyUI
-🌱 Learning       → Node.js • Express.js • MongoDB
-🚀 Goal           → Professional Full-Stack Developer
-📍 Location       → Bangladesh
-
+* 🔭 Building modern and responsive web applications
+* ⚛️ Exploring **React and Next.js**
+* 🟦 Improving my **TypeScript** skills
+* 🌱 Learning **Node.js, Express.js and MongoDB**
+* 🎨 Creating clean interfaces with **Tailwind CSS and daisyUI**
+* 💡 Practicing modern frontend development and UI/UX
+* 🚀 Working toward becoming a professional **Full-Stack Developer**
 
 ---
 
@@ -51,7 +52,7 @@ I enjoy turning ideas into **clean, responsive and interactive web applications*
 
 <br/><br/>
 
-### Tools
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
@@ -66,9 +67,9 @@ I enjoy turning ideas into **clean, responsive and interactive web applications*
 
 <td width="50%">
 
-### 💪 FitLog – Workout Library
+### 💪 FitLog
 
-A modern and responsive workout library designed for discovering and exploring different workout routines.
+A modern and responsive workout library for discovering and exploring different workout routines.
 
 **Highlights**
 
@@ -76,7 +77,7 @@ A modern and responsive workout library designed for discovering and exploring d
 * 🔎 Workout discovery
 * 📋 Workout information
 * 📱 Responsive design
-* ⚡ Modern user interface
+* ⚡ Modern UI
 
 <br/>
 
@@ -92,17 +93,17 @@ A modern and responsive workout library designed for discovering and exploring d
 
 <td width="50%">
 
-### 🎤 DevConf – Conference & Event Management
+### 🎤 DevConf
 
-A modern conference and event management platform for discovering and exploring conference events.
+A responsive conference and event management website for discovering conference events.
 
 **Highlights**
 
-* 🎤 Conference management
-* 📅 Event information
+* 🎤 Conference information
+* 📅 Event details
 * 🔎 Event discovery
-* 📱 Responsive design
-* ✨ Modern UI
+* 📱 Responsive layout
+* ✨ Modern interface
 
 <br/>
 
@@ -129,7 +130,7 @@ A modern book discovery and management application built with **Next.js, TypeScr
 **Highlights**
 
 * 📖 Book discovery
-* ❤️ Wishlist
+* ❤️ Wishlist management
 * 📚 Read book management
 * 🔎 Dynamic book details
 * 📱 Responsive design
@@ -179,23 +180,21 @@ Focused on **clean UI, responsive design and modern web development**.
 
 </div>
 
-I'm continuously improving my frontend skills while expanding toward **full-stack development**.
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/Nahid-Akand">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nahid-Akand&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nahid-Akand&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Nahid Akand GitHub Stats" />
 
 </a>
 
 <a href="https://github.com/Nahid-Akand">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Akand&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Akand&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
 
 </a>
 
@@ -207,23 +206,11 @@ I'm continuously improving my frontend skills while expanding toward **full-stac
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nahid-Akand&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Nahid-Akand&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<a href="https://github.com/Nahid-Akand">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahid-Akand&theme=github_dark" width="95%" alt="Nahid Akand GitHub Profile Summary" />
-</a>
-
-</div>
-
-
 
 ## 🎯 2026 Goals
 
@@ -231,7 +218,7 @@ I'm continuously improving my frontend skills while expanding toward **full-stac
 
 <tr>
 <td align="center">🚀</td>
-<td><b>Full-Stack Development</b><br/>Become confident building complete applications.</td>
+<td><b>Full-Stack Development</b><br/>Become confident building complete web applications.</td>
 </tr>
 
 <tr>
@@ -268,16 +255,32 @@ I'm continuously improving my frontend skills while expanding toward **full-stac
 
 ---
 
-## 📫 Let's Connect
+## 📍 Location & Contact
 
 <div align="center">
 
-<a href="https://nahid-portfolio-xi.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge" />
+📍 **Dhaka, Bangladesh**
+
+📧 **[jahidnahid19@gmail.com](mailto:jahidnahid19@gmail.com)**
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Nahid-Akand">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/nahid-akand/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://nahid-portfolio-xi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <a href="mailto:jahidnahid19@gmail.com">
